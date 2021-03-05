@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 * environments.
 *
 */
-define('APP_BASE_URL', 'http://localhost/crm/');
+define('APP_BASE_URL', 'https://crm-adisigt.herokuapp.com/crm/');
 
 /*
 * --------------------------------------------------------------------------
@@ -38,13 +38,13 @@ define('APP_ENC_KEY', '68761b0c99b2b9a612a124db8f81d131');
  * Database Credentials
 */
 /* The hostname of your database server. */
-define('APP_DB_HOSTNAME', 'localhost');
+define('APP_DB_HOSTNAME', 'mysql5039.site4now.net');
 /* The username used to connect to the database */
-define('APP_DB_USERNAME', 'root');
+define('APP_DB_USERNAME', 'a0cdb4_crm');
 /* The password used to connect to the database */
-define('APP_DB_PASSWORD', 'root');
+define('APP_DB_PASSWORD', 'Nuevo2020');
 /* The name of the database you want to connect to */
-define('APP_DB_NAME', 'crm');
+define('APP_DB_NAME', 'db_a0cdb4_crm');
 
 /**
  *
