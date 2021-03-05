@@ -1,4 +1,5 @@
 #!/usr/local/bin/php
+
 <?php
 
 error_reporting(1);
